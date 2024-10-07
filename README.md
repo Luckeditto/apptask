@@ -59,11 +59,17 @@ Siga os passos abaixo para rodar o projeto localmente:
 ### Tela 1 – Home
 A tela inicial exibe todas as tarefas do usuário. Há três botões na parte inferior: "Home", "Criar Nova Tarefa" e "Perfil".
 
+![Tela Home](./img1.png)
+
 ### Tela 2 – Visualização de Tarefa
 Na tela de visualização, o usuário pode acessar os detalhes da tarefa clicando nos três pontinhos ao lado dela, onde será possível marcar como concluída ou excluir a mesma.
 
+![Visualização de Tarefa](./img2.png)
+
 ### Tela 3 – Criação de Tarefa
 A criação de uma nova tarefa é simples e intuitiva, com dois campos: título e descrição.
+
+![Criação de Tarefa](./img3.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
